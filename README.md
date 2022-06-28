@@ -62,5 +62,3 @@ The CSS styles can go in the `style` tag. We use SCSS pre-processing.
 
 </style>
 ```
-
-# odin-landing-page
